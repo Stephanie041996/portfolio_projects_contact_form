@@ -325,3 +325,12 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.contact {
+ padding-top: 100px;
+ padding-right: 70px;
+}
+
+.orange  {
+  background-color: #ff6b00 !important;
+}

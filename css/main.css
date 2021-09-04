@@ -326,10 +326,15 @@ li {
   list-style: inside url("../media/svg/circle.svg");
 }
 
-.contact {
+.row {
+  display: flex;
+  padding: 40px;
+}
+
+/* .contact {
   padding-top: 100px;
   padding-right: 70px;
-}
+} */
 
 .orange {
   background-color: #ff6b00 !important;

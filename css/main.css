@@ -334,3 +334,11 @@ li {
 .orange {
   background-color: #ff6b00 !important;
 }
+
+.orange:hover {
+  background: #a04300 !important;
+}
+
+.orange:active {
+  background-color: #803805 !important;
+}
